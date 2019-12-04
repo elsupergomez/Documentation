@@ -65,7 +65,7 @@ Content-Type: application/json
 Authorization: Bearer ...
 
 {
-    "domain": "hotmail.com"
+    "domain": "hotmail.com",
     "tag": "Campaign1"
 }
 ```
